@@ -39,10 +39,10 @@
   <active>yes</active>
  </contributor>
  <date>2014-08-18</date>
- <time>20:30:30</time>
+ <time>20:33:17</time>
  <version>
-  <release>1.0.2</release>
-  <api>1.0.2</api>
+  <release>1.0.3</release>
+  <api>1.0.3</api>
  </version>
  <stability>
   <release>alpha</release>
@@ -50,7 +50,7 @@
  </stability>
  <license>Apache</license>
  <notes>
-version 1.0.2 alpha release.
+version 1.0.3 alpha release.
  </notes>
  <contents>
   <dir baseinstalldir="/" name="/">
@@ -93,6 +93,10 @@ version 1.0.2 alpha release.
    <file baseinstalldir="/" md5sum="dcb26c7239d850266941e80370e207c1" name="web/autumn/fonts/fontawesome-webfont.ttf" role="data" />
    <file baseinstalldir="/" md5sum="3293616ec0c605c7c2db25829a0a509e" name="web/autumn/fonts/fontawesome-webfont.woff" role="data" />
    <file baseinstalldir="/" md5sum="3f3a623e88cb5c62eaa2367195e98b67" name="web/autumn/fonts/FontAwesome.otf" role="data" />
+   <file baseinstalldir="/" md5sum="48de056ed075039795ab6175f51b91d3" name="web/autumn/img/bg.jpg" role="data" />
+   <file baseinstalldir="/" md5sum="11118ae8db796d41dd11482067c89d01" name="web/autumn/img/glyphicons-halflings-white.png" role="data" />
+   <file baseinstalldir="/" md5sum="531d4b607365ac65b09a181216f0664d" name="web/autumn/img/glyphicons-halflings.png" role="data" />
+   <file baseinstalldir="/" md5sum="02d11a3acdd04a3083510007e36e1369" name="web/autumn/img/smoke.png" role="data" />
    <file baseinstalldir="/" md5sum="20b2ec1e5ef4fc93c613f613bffb9758" name="web/autumn/js/bootstrap-dropdown.js" role="data" />
    <file baseinstalldir="/" md5sum="c87f369e36f246107cd278a830a600c5" name="web/autumn/js/license.js" role="data" />
    <file baseinstalldir="/" md5sum="5cab19fff75c20c3200245a214f21fcc" name="web/bamboo/css/bootstrap.css" role="data" />
@@ -422,6 +426,21 @@ First stable release.
    <license>Apache</license>
    <notes>
 version 1.0.2 alpha release.
+   </notes>
+  </release>
+  <release>
+   <version>
+    <release>1.0.3</release>
+    <api>1.0.3</api>
+   </version>
+   <stability>
+    <release>alpha</release>
+    <api>alpha</api>
+   </stability>
+   <date>2014-08-18</date>
+   <license>Apache</license>
+   <notes>
+version 1.0.3 alpha release.
    </notes>
   </release>
  </changelog>
